@@ -11,6 +11,6 @@
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
-        <Button Grid.Row="1" Clicked="Button_Clicked"/>
+        <Button Grid.Row="1" Clicked="Button_Clicked" Text="Navigate back"/>
     </Grid>
 </ContentPage>
